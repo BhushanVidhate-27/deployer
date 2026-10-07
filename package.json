@@ -1,0 +1,11 @@
+{
+  "name": "local-repo-deployer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A small local Docker deployment dashboard for Git repositories.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
